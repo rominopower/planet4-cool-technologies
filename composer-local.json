@@ -6,6 +6,7 @@
 		"greenpeace/planet4-child-theme" : "dev-develop",
 		"greenpeace/planet4-master-theme" : "dev-develop",
 		"greenpeace/planet4-plugin-blocks" : "dev-develop",
+		"wpackagist-plugin/advanced-custom-fields-contact-form-7-field":"1.1.2"
 		"wpackagist-plugin/sendgrid-email-delivery-simplified":"1.11.8",
 		"wpackagist-plugin/wpdatatables":"2.013",
 		"wpackagist-plugin/contact-form-7":"5.1.4",
